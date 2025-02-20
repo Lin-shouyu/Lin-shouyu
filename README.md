@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lin-shouyu</h1>
 <h3 align="center">中興大學碩士班就讀的學生，積極參與課外活動，主要負責後端部分開發。</h3>
+<h3 align="center">
+  <a href="https://aggielab.github.io/" target="_blank" rel="noopener noreferrer">
+    目前在中興大學 ISLAB 擔任學生中
+  </a>
+</h3>
+<h3 align="center">
+  <a href="https://drive.google.com/file/d/1O7jGJYyepvMCFTrdgD5_7ldXZ68EE0W-/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    about me
+  </a>
+</h3>
 <p align="left">
 </p>
 
