@@ -8,6 +8,9 @@
     My resume
   </a>
 </h3>
+<h3 align="center">
+  Leetcode :  <a href="https://leetcode.com/u/justnoob/" target="_blank" rel="noopener noreferrer">justnoob</a> 200題菜雞
+</h3>
 <p align="left">
 </p>
 
